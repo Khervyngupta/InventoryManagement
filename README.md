@@ -1,4 +1,4 @@
-Inventory Management Utility with External API Integration
+**Inventory Management Utility with External API Integration**
 
 **Requirement Summary**
 
